@@ -1,0 +1,32 @@
+﻿@model DiceSimulationProject.ViewModels.DiceViewModel
+
+<h2>Dice Simulation</h2>
+
+<form asp-controller="Dice" asp-action="Simulate" method="post">
+    <div class="form-group">
+        <label for="FavoredFaceDie1">Favored Face Die 1:</label>
+        <input type="number" class="form-control" id="FavoredFaceDie1" name="FavoredFaceDie1" min="1" max="6" required>
+    </div>
+
+    <div class="form-group">
+        <label for="FactorDie1">Factor Die 1 (1-5):</label>
+        <input type="number" class="form-control" id="FactorDie1" name="FactorDie1" min="1" max="5" required>
+    </div>
+
+    <div class="form-group">
+        <label for="FavoredFaceDie2">Favored Face Die 2:</label>
+        <input type="number" class="form-control" id="FavoredFaceDie2" name="FavoredFaceDie2" min="1" max="6" required>
+    </div>
+
+    <div class="form-group">
+        <label for="FactorDie2">Factor Die 2 (1-5):</label>
+        <input type="number" class="form-control" id="FactorDie2" name="FactorDie2" min="1" max="5" required>
+    </div>
+
+    <div class="form-group">
+        <label for="NumberOfRolls">Number of Rolls:</label>
+        <input type="number" class="form-control" id="NumberOfRolls" name="NumberOfRolls" required>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Simulate</button>
+</form>

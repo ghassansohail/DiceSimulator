@@ -1,0 +1,25 @@
+﻿<h1>Simulation Results</h1>
+<h2>Dice Rolls Information</h2>
+
+@foreach (var diceRoll in Model)
+{
+    <div>
+        <p>Created Time: @diceRoll.CreatedDate</p>
+        <p>Number of Rolls: @diceRoll.NumberOfRolls</p>
+
+        <h4>Dice Results:</h4>
+        <ul>
+            @foreach (var diceResult in diceRoll.DiceResults)
+            {
+                <li>
+                    Die 1: @diceResult.ResultsDie1, Die 2: @diceResult.ResultsDie2
+                </li>
+            }
+        </ul>
+
+        <hr />
+    </div>
+}
+
+
+

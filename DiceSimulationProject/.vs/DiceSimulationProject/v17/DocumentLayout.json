@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|c:\\users\\dev\\downloads\\dotnet\\dotnet-20240711t143517z-001\\dotnet\\diceapp\\muhammad-e\\dicesimulationproject\\dicesimulationproject\\controllers\\dicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|solutionrelative:dicesimulationproject\\controllers\\dicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|c:\\users\\dev\\downloads\\dotnet\\dotnet-20240711t143517z-001\\dotnet\\diceapp\\muhammad-e\\dicesimulationproject\\dicesimulationproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|solutionrelative:dicesimulationproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|c:\\users\\dev\\downloads\\dotnet\\dotnet-20240711t143517z-001\\dotnet\\diceapp\\muhammad-e\\dicesimulationproject\\dicesimulationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|solutionrelative:dicesimulationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|c:\\users\\dev\\downloads\\dotnet\\dotnet-20240711t143517z-001\\dotnet\\diceapp\\muhammad-e\\dicesimulationproject\\dicesimulationproject\\repositories\\dicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|solutionrelative:dicesimulationproject\\repositories\\dicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|c:\\users\\dev\\downloads\\dotnet\\dotnet-20240711t143517z-001\\dotnet\\diceapp\\muhammad-e\\dicesimulationproject\\dicesimulationproject\\repositories\\irepositories\\idicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|solutionrelative:dicesimulationproject\\repositories\\irepositories\\idicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|c:\\users\\dev\\downloads\\dotnet\\dotnet-20240711t143517z-001\\dotnet\\diceapp\\muhammad-e\\dicesimulationproject\\dicesimulationproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|solutionrelative:dicesimulationproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|c:\\users\\dev\\downloads\\dotnet\\dotnet-20240711t143517z-001\\dotnet\\diceapp\\muhammad-e\\dicesimulationproject\\dicesimulationproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|solutionrelative:dicesimulationproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|c:\\users\\dev\\downloads\\dotnet\\dotnet-20240711t143517z-001\\dotnet\\diceapp\\muhammad-e\\dicesimulationproject\\dicesimulationproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|solutionrelative:dicesimulationproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|c:\\users\\dev\\downloads\\dotnet\\dotnet-20240711t143517z-001\\dotnet\\diceapp\\muhammad-e\\dicesimulationproject\\dicesimulationproject\\models\\dicerollmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|solutionrelative:dicesimulationproject\\models\\dicerollmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|c:\\users\\dev\\downloads\\dotnet\\dotnet-20240711t143517z-001\\dotnet\\diceapp\\muhammad-e\\dicesimulationproject\\dicesimulationproject\\models\\diceresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|solutionrelative:dicesimulationproject\\models\\diceresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|c:\\users\\dev\\downloads\\dotnet\\dotnet-20240711t143517z-001\\dotnet\\diceapp\\muhammad-e\\dicesimulationproject\\dicesimulationproject\\viewmodels\\diceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|solutionrelative:dicesimulationproject\\viewmodels\\diceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|c:\\users\\dev\\downloads\\dotnet\\dotnet-20240711t143517z-001\\dotnet\\diceapp\\muhammad-e\\dicesimulationproject\\dicesimulationproject\\views\\dice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|solutionrelative:dicesimulationproject\\views\\dice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|c:\\users\\dev\\downloads\\dotnet\\dotnet-20240711t143517z-001\\dotnet\\diceapp\\muhammad-e\\dicesimulationproject\\dicesimulationproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|solutionrelative:dicesimulationproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|c:\\users\\dev\\downloads\\dotnet\\dotnet-20240711t143517z-001\\dotnet\\diceapp\\muhammad-e\\dicesimulationproject\\dicesimulationproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|solutionrelative:dicesimulationproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|c:\\users\\dev\\downloads\\dotnet\\dotnet-20240711t143517z-001\\dotnet\\diceapp\\muhammad-e\\dicesimulationproject\\dicesimulationproject\\views\\dice\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|solutionrelative:dicesimulationproject\\views\\dice\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|c:\\users\\dev\\downloads\\dotnet\\dotnet-20240711t143517z-001\\dotnet\\diceapp\\muhammad-e\\dicesimulationproject\\dicesimulationproject\\migrations\\20240116172125_adddicetablestodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065EAC34-A71D-4207-8589-102A23328122}|DiceSimulationProject\\DiceSimulationProject.csproj|solutionrelative:dicesimulationproject\\migrations\\20240116172125_adddicetablestodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DiceSimulationProject\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DiceSimulationProject\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:22:00.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DiceResultModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Models\\DiceResultModel.cs",
+              "RelativeDocumentMoniker": "DiceSimulationProject\\Models\\DiceResultModel.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Models\\DiceResultModel.cs",
+              "RelativeToolTip": "DiceSimulationProject\\Models\\DiceResultModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:21:52.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Controllers\\DiceController.cs",
+              "RelativeDocumentMoniker": "DiceSimulationProject\\Controllers\\DiceController.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Controllers\\DiceController.cs",
+              "RelativeToolTip": "DiceSimulationProject\\Controllers\\DiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:19:56.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Program.cs",
+              "RelativeDocumentMoniker": "DiceSimulationProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Program.cs",
+              "RelativeToolTip": "DiceSimulationProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:19:56.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\appsettings.json",
+              "RelativeDocumentMoniker": "DiceSimulationProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\appsettings.json",
+              "RelativeToolTip": "DiceSimulationProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T11:19:56.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Repositories\\DiceRepository.cs",
+              "RelativeDocumentMoniker": "DiceSimulationProject\\Repositories\\DiceRepository.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Repositories\\DiceRepository.cs",
+              "RelativeToolTip": "DiceSimulationProject\\Repositories\\DiceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:19:56.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DiceSimulationProject\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DiceSimulationProject\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:23:18.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Repositories\\IRepositories\\IDiceRepository.cs",
+              "RelativeDocumentMoniker": "DiceSimulationProject\\Repositories\\IRepositories\\IDiceRepository.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Repositories\\IRepositories\\IDiceRepository.cs",
+              "RelativeToolTip": "DiceSimulationProject\\Repositories\\IRepositories\\IDiceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:06:21.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DiceSimulationProject\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\appsettings.Development.json",
+              "RelativeToolTip": "DiceSimulationProject\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T11:19:56.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\ViewModels\\DiceViewModel.cs",
+              "RelativeDocumentMoniker": "DiceSimulationProject\\ViewModels\\DiceViewModel.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\ViewModels\\DiceViewModel.cs",
+              "RelativeToolTip": "DiceSimulationProject\\ViewModels\\DiceViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:19:56.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiceRollModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Models\\DiceRollModel.cs",
+              "RelativeDocumentMoniker": "DiceSimulationProject\\Models\\DiceRollModel.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Models\\DiceRollModel.cs",
+              "RelativeToolTip": "DiceSimulationProject\\Models\\DiceRollModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:19:55.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DiceSimulationProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DiceSimulationProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T11:19:56.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DiceSimulationProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DiceSimulationProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:19:56.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Views\\Dice\\Index.cshtml",
+              "RelativeDocumentMoniker": "DiceSimulationProject\\Views\\Dice\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Views\\Dice\\Index.cshtml",
+              "RelativeToolTip": "DiceSimulationProject\\Views\\Dice\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T11:19:56.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Results.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Views\\Dice\\Results.cshtml",
+              "RelativeDocumentMoniker": "DiceSimulationProject\\Views\\Dice\\Results.cshtml",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Views\\Dice\\Results.cshtml",
+              "RelativeToolTip": "DiceSimulationProject\\Views\\Dice\\Results.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T11:19:56.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\.gitignore",
+              "RelativeDocumentMoniker": "..\\.gitignore",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\.gitignore",
+              "RelativeToolTip": "..\\.gitignore",
+              "ViewState": "AQIAAHYBAAAAAAAAAAAAAI8BAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASlSURBVFhHzVfdSyNXFD8zGeNXardL0rq66Cjd1JcuBfuiRGt8LvQP6Ev7FyiKRBRxU/oo\u002BOhLwXkRnwuVLps2sx/u4kuhaGK6oKBNilrFN\u002BuYzcz0nHvvmMxMvkoX2h/ejznnzj2/e86Zkyv8Z7Dtr7DZknhk2NjYCOOQwBa2LIvJnBHXstF5JnCRjTIardsxEAgUcetfDcP\u002B/uIi/2cymSyRxgXL\u002BhAkKeYisLm5qZqmqUciETUUCjGZY5hGbs8ZeVfWA5RKJTg5OYFQqLOIJH45OzvbKBaLP\u002BCep1NTUzdsoQcuAuvr66qiKPrIyIg6MDAgpBzcjEDVBwmur/\u002BCdDoNvb29SEh68/p17nfDMJLYnp\u002Bfn/9RzROyGF1gp8VG7jZFs0wcTZM3S4yskZzczxuhra0Neu/3KB8/fHg/2Nq6LCvK5\u002BFw\u002BH2m9MBHwHEpgc2oc50YIZ65SoSkArIsQ3t7uxQJh4NDQ0N9H0QiX2JIvhBqF2oSuLq6gnw\u002B72oFpxXwGRuNhUKBjZeXl\u002Bw9wunpKRweHJBOMq6vW64NY9iy7U\u002BE2gVfDiB7lgN4AshkMkLjh/fUPffuweDgIOzs7DACaJTJyUCx\u002BAZKZkmbnpr6mgkr4CMgSZI\u002BOjqq9vX1AyYPSr2mOLxSdDG0KC3MMOWGbfN8CMgBePnqFRwcHmoz000QwBDosVhMfffOHTg\u002BOhIaP3y0qgiCwSBEox/B8xcvIPdbDglM\u002BwhU/wrE6AXJneZCIwHlVbl\u002BueDzAH5KzAN9/f1wI\u002BLowGfHASrcOi7AcEJHRwf8jLUhl9vXZmdmGocAv2k9NhZTO9o7IJt1J2E9Am5wASXy8PCnsL29jQRy2uxsUwRMJDCmdnd3w8XFhdDUgDBctu8WYFUF2iet67CPHpibna2fA\u002BRxVgbKO74dNJsDa2tr7LdgbGxcpdhlPCGoT8yvdEJAX0F2P6sl5ubqh4AIBAJEYExFgHHjTsJKGz5zooJWymWRhKlUCvNpX0skmiAgywF9fHxcvXv3PTg6PhYaAf8hK\u002BAn0Ip14EE0Crr\u002BlBJam08k6ucAB20htnGmFaIy3MpqS8rPOPMqBXwekCSZeWBgAENg3NR6DyE0tfbGkEgyD8GTJynMp6y2MO/3gI8AXiT0iYnP1M5QJ2QzWaGphtrUHPAkHIanz55BZg8JLMw3JoA/m0hgQu3p6fHXgcY2cUl5kVMHUqmf8Jc1qy1WIVDlPkAdn7890IbVC4HLA6voAQVLcTweV9/BS6m3FP9TOCFI41ewl8loS4sL9UPACZh6fCKu0uXCuVTUBbqslsNkkYQ/Pn4Mu0hgeXGxAYFVLESKqU\u002BiB/ASiXWg9n3gFnXCFWyl\u002B0CU5cDuHhJY8hPw5ICBB6o4EU0ataZAC5vJgdVVVcZSPDkZV6MPorfX7KbtVAFd1ba2tmB3d097tLzUzFeAHkCLVETo5X/b8OcAD4D/YzTrARsrId5w1a6uLpRwMuWRExQzj46P2FPnes7nC3Rt1755tFw/CVdWVsIBRUnge2EiTLxpM4t3\u002BMe6CjnCYiZpQlPsbxVAF2P2Dols6\u002BW3yeR3bOn/BwB/A2D6qS2/EOUhAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-07-12T11:19:56.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240116172125_AddDicetablesToDB.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Migrations\\20240116172125_AddDicetablesToDB.cs",
+              "RelativeDocumentMoniker": "DiceSimulationProject\\Migrations\\20240116172125_AddDicetablesToDB.cs",
+              "ToolTip": "C:\\Users\\Dev\\Downloads\\Dotnet\\Dotnet-20240711T143517Z-001\\Dotnet\\DiceApp\\Muhammad-E\\DiceSimulationProject\\DiceSimulationProject\\Migrations\\20240116172125_AddDicetablesToDB.cs",
+              "RelativeToolTip": "DiceSimulationProject\\Migrations\\20240116172125_AddDicetablesToDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:19:56.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
